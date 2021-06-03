@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of many thousand citizens and inhabitants in and about the City of London To the Parliament of the Common-Wealth of England. Together with the Parliaments answer thereunto.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86775</idno><idno type="EEBO-CITATION">99899514</idno>
+  <idno type="VID">153990</idno>
+  <idno type="EEBO-PROQUEST">2240852642</idno>
+  
+            <idno type="STC">Wing H3474</idno>
+            <idno type="STC">Thomason E968_6*</idno>
+            <idno type="STC">ESTC R202519</idno>
+            <idno type="PROQUEST">99899514</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99899514e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86775)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153990)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2392:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of many thousand citizens and inhabitants in and about the City of London To the Parliament of the Common-Wealth of England. Together with the Parliaments answer thereunto.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Livewell Chapman at the Crown in Popes-head-alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658 [i.e. 1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The publication year is given in Lady Day dating.</note>
+                  <note>The Commons' reply is dated 15 Feb. 1658[/9].</note>
+                  <note>Annotation on Thomason copy: "feb: 17 Feb. 17.".</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153990:1"/>
+            <p>THE HUMBLE PETITION OF Many Thousand Citizens and Inhabitants in and about the City of <hi>LONDON.</hi>
+            </p>
+            <p>To the Parliament of the <hi>COM<g ref="char:EOLhyphen"/>MON-WEALTH</hi> of <hi>ENGLAND.</hi>
+            </p>
+            <p>
+               <hi>Together with the</hi> PARLIAMENTS <hi>Answer thereunto.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Livewell Chapman</hi> at the <hi>Crown</hi> in <hi>Popes-head-alley,</hi> 1658.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:153990:2"/>
+            <pb n="3" facs="tcp:153990:2"/>
+            <head>To the Parliament of the Common-wealth of <hi>England.</hi>
+            </head>
+            <head type="sub">The Humble Petition of Diverse, Citizens and Inhabitants in and about the City of <hi>London.</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>THat whereas after a long Contest in this poore Island against Tyranny and Injustice (wherein the treasure of the Nation hath been exhausted, and the precious Blood of many thousands spilt, the Parliament being Necessitated to spend their Time for many Years in maintaining the War, and providing for the Defence of themselves, and such who engaged with them in that quarrell) God hath been pleased (we hope in Mercy to the Nation) to bring You once again together in a time of Peace, to heal our Breaches, to Establish firm<g ref="char:EOLhyphen"/>ly the Ancient Rights and Freedomes of <hi>England,</hi> which were the subject of this great quarrell (which God decided on our side) and to settle such wayes of dispensing impar<g ref="char:EOLhyphen"/>tiall Justice, that the Name of God may be exalted in Righteousness, and no man in the end have cause to repent of the Blood and Treasure expended in the pursuance of the same.</p>
+            <p>
+               <hi>Your Petitioners therefore humbly crave leave to present to your Honours their sense of some of the principall things wherein that Tyranny consisted, against which we did then in Judgment and Conscience Engage; Which were,</hi>
+            </p>
+            <list>
+               <item>1. The late Kings Usurpation over Parliaments, Com<g ref="char:EOLhyphen"/>mitting and keeping diverse of their Members in Prison, as long as he thought good, without bringing them to try<g ref="char:EOLhyphen"/>all; In preventing their Meeting, and Dissolving them when they were met, at Pleasure: His Deniall and opposi<g ref="char:EOLhyphen"/>tion of their Supream Trust, to provide in all things for the safety and welfare of the People, under pretence of a Negative voice.</item>
+               <item>II. The Challenging of such an Interest in the Militia, as to Command the same at his Pleasure, without the Par<g ref="char:EOLhyphen"/>liament
+<pb n="4" facs="tcp:153990:3"/>and to place the Subordinate Commands of the same in whom he pleased: whereby he claimed a Power to enforce Obedience to any of his illegal Commands, both in matters Religious and Civill; which directly tended to the razing out the very Name and Beeing of Parliaments, which have been the Ancient Preservers of the Nations Freedome.</item>
+               <item>III. His Introducing and exercising of an Arbitrary Po<g ref="char:EOLhyphen"/>wer by his Councel and others, over mens Persons and E<g ref="char:EOLhyphen"/>states, when they ought to have been tryed by the Laws of the Land.</item>
+               <item>IV. His assuming a Right (under pretence of Necessity for the Nations good, and to secure it from future At<g ref="char:EOLhyphen"/>tempts, whereof he onely would be Judge) to Leavy Mo<g ref="char:EOLhyphen"/>ney upon the People without their Consent in Parliament; wherein (as in the Particulars aforesaid) he pretended he was unaccountable for what he did, either to the Parlia<g ref="char:EOLhyphen"/>ment, or any earthly Power whatsoever.</item>
+            </list>
+            <p>
+               <hi>And your Petitioners doe humbly crave l<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ve to minde your Ho<g ref="char:EOLhyphen"/>nours of the many Signal Testimonies, which God hath given of his displeasure against all who have endeavoured to support the afore<g ref="char:EOLhyphen"/>said Tyranny, or have espoused it as their quarrell, und r any noti<g ref="char:EOLhyphen"/>on whatsoever: And of the price now put into your hands to secure the Nation, from future attempts and dangers of the like Nature: And not onely the Armies Declarations, and the Agreement of the People, proposed by them (remaining upon Record in your House) but the Ruines and Spoiles of the Land, and of the many Thousand Families therein: The expence of many Milions of Treasure, the wounds and scars, and lost members of very many, and (above all) the precious blood of such, who were slain in the quarrell, together with the long waiting, earnest and patient expectation of many good people (retaining in their hearts affection to the good old Cause) cry aloud to you to call upon God with us for Wisdome, that you may be taught, and enabled to establish such a sure foun<g ref="char:EOLhyphen"/>dation of Right, Freedome and Justice, that the People of the Na<g ref="char:EOLhyphen"/>tion may not be put again upon such hazards of their Lives and expence of their Estates for the defence of the same.</hi>
+            </p>
+            <pb n="5" facs="tcp:153990:3"/>
+            <p>
+               <hi>Therefore Your Petitioners Humbly pray,</hi>
+            </p>
+            <p>That together with the constant succession of Free Par<g ref="char:EOLhyphen"/>liaments duely Chosen, the Supream Power and Trust, which the People (the Original of all just Power) commit unto them, to make Laws, Constitutions and Offices for the Government of the who, and to call all Officers of Justice, and Ministers of state whatsoever to account, may be so clearly Declared and Secured against all Attempts to the contrary, that no question may henceforth arise concern<g ref="char:EOLhyphen"/>ing the same.</p>
+            <p>That the Militia may be settled with such Wisdome and full Security, that it may not be in the power of any to make use thereof against the People or their Successive Par<g ref="char:EOLhyphen"/>liaments either to destroy their Beeing, or their Freedome.</p>
+            <p>That no Money may be Leavied upon the People (on any pretence whatsoever) but by their common Consent in Parliament.</p>
+            <p>That our Civill Warres being long since ended, the Peo<g ref="char:EOLhyphen"/>ples Persons and Estates may be onely subject to be dispo<g ref="char:EOLhyphen"/>sed of according to the Laws of the Land; and that hence<g ref="char:EOLhyphen"/>forth none may be reputed Offenders, or proceeded a<g ref="char:EOLhyphen"/>gainst by imprisonment, or otherwise, but such who shall be really found transgressors of the Law: And that there may be speedy consideration had of the long Imprison<g ref="char:EOLhyphen"/>ment of many Persons well-affected (and some in remote places) without any due prosecution: And we the rather press this, because it hath been the practise of former Par<g ref="char:EOLhyphen"/>liaments, and in particular of the late Memorable Long-Parliament, to take notice of, and redress the grievances of the People, to relieve those who were illegally oppressed and to restore them to the enjoyment of Liberty, their common Birth-right by the Law of the Land; which the Lord hath signally owned, and blest from Heaven, and the good People have abundantly rejoyced in.</p>
+            <p>That so long as it shall be judged Necessary to keep up an Army for the preservation of the People from the at<g ref="char:EOLhyphen"/>tempts of the common Enemy, Domestick or Foraign, the
+<pb n="6" facs="tcp:153990:4"/>Officers and Souldiers who have hazarded their lives for the Nations Liberty, may not be turned out of their respe<g ref="char:EOLhyphen"/>ctive imployments without a legall triall at a Court-Mar<g ref="char:EOLhyphen"/>tiall, that so the Military Power may be preserved in the hands of such, who are not meerly Mercinary, Newters, or Disaffected.</p>
+            <p>And that as the safety of our Religion is concerned in the Defence of our Civill Rights, so such provision may now be made for the encouragement of the sincere Pro<g ref="char:EOLhyphen"/>fessours of the same; that no tender Conscience may be oppressed. And in doing these things you will be glorious Instruments in the hand of God, and Honourable in your Country, And the Lives and Estates of your Petitioners shall be freely exposed to hazard in your just Defence.</p>
+            <p>And Your Petitioners, &amp;c.</p>
+            <p>Your Petitioners accompting it no small part of their Birth-right (as <hi>English-men</hi>) not onely to chuse their Suc<g ref="char:EOLhyphen"/>cessive Representatives, but also freely to present their de<g ref="char:EOLhyphen"/>sires and grievances to them when Assembled in Parlia<g ref="char:EOLhyphen"/>ment, drew up the Petition above written; with inten<g ref="char:EOLhyphen"/>tions to have submitted the matters therein contained to the judicious consideration of the last Parliament, at their last Session, when the Doores were set open to all its mem<g ref="char:EOLhyphen"/>bers, but were by the sudden unexpected Dissolution thereof prevented.</p>
+            <p>But we humbly crave leave to acquaint your Honours with severall unusual and intollerable Breaches made upon our Freedome, and the dear bought Liberty of all the Peo<g ref="char:EOLhyphen"/>ple of <hi>England,</hi> concerned with ours therein; both du<g ref="char:EOLhyphen"/>ring the time of the modest, sober, and peaceable proce<g ref="char:EOLhyphen"/>dure in the management of the said Petition and after<g ref="char:EOLhyphen"/>wards; Whilest we were promoting it many threatnings were cast forth against the persons concerned therein; Af<g ref="char:EOLhyphen"/>ter the Dissolution of the Parliament, the Petition it self was highly Censured; and some of the Petitioners were imprisoned for appearing therein, and others discharged from their Imployments for favouring the good things Petitioned for.</p>
+            <pb n="7" facs="tcp:153990:4"/>
+            <p>
+               <hi>Wherefore Your Petionrs farther pray,</hi>
+            </p>
+            <p>That the Right of sober, peaceable Petitioning unto Parliaments may be asserted and secured to the People.</p>
+            <p>That your Petitioners may be vindicated, and such who have sustained illegall restraint, or been turned out of their places for owning the said Petition, may be repaired and satisfied. </p>
+            <closer>
+               <hi>And your Petitioners shall ever pray, &amp;c.</hi>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>This Petition being signed by many thousands, was presented to the Parliament, by several Justices of the Peace, Gentlemen, Merchants and Citizens, who presented the same to the Parliament in the Name of the rest.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="response">
+            <opener>
+               <dateline>
+                  <date>Tuesday, <hi>the</hi> 15th. <hi>of</hi> February, 1658.</date>
+               </dateline>
+            </opener>
+            <p>The House being informed, that those Gentlemen of good affections to the Common-wealth, who for<g ref="char:EOLhyphen"/>merly attended to deliver a Petition to this House, were without at the doore, they were called in, and Mr. <hi>Samuell Moyer</hi> in the name of the rest, presented to the House their Petition, and afterwards the Petition<g ref="char:EOLhyphen"/>ers withdrew.</p>
+            <p>The Petition was read, and was directed to the Parliament of the Common-wealth of <hi>England,</hi> and was intituled; <hi>The Humble Petition of divers</hi> Citizens <hi>and Inhabitants in and about</hi> London.</p>
+            <p>Resolved, &amp;c.</p>
+            <p>
+               <hi>That the Answer to be given to the Petitioners shall be, That the House hath read their Petition. That some of the particulars mentioned in their Petition, the House hath alrea<g ref="char:EOLhyphen"/>dy taken into Consideration, and that such others as are fit for the consideration of this House, they will in due time consider of them, and doe expect that the Petitioners should acquiesee therein, according to their own expressions.</hi>
+            </p>
+            <p>The Petitioners were again called in, and Mr. Spea<g ref="char:EOLhyphen"/>ker gave them the Answer of the House accordingly.</p>
+            <closer>
+               <signed>Jo. Smythe <hi>Clerk of the</hi> Parliament</signed>
+            </closer>
+            <pb facs="tcp:153990:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
